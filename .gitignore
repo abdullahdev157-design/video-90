@@ -1,0 +1,14 @@
+# Installed Node.js packages (npm install se dobara ban jate hain)
+node_modules/
+
+# Environment variables aur secrets
+.env
+.env.*
+!.env.example
+
+# npm debug logs
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
